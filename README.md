@@ -1,1 +1,1 @@
-# Real-time-bitcoin-price-predictor
+# cryptocurrency_price_predictor
